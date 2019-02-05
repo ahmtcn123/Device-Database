@@ -1,0 +1,28 @@
+{
+  "name": "device-database",
+  "version": "1.0.0",
+  "description": "Collection of development boards",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmtcn123/Device-Database.git"
+  },
+  "keywords": [
+    "Device-Database",
+	"raspberry",
+	"raspberrypi3",
+	"rpi"
+  ],
+  "author": "Ahmetcan Aksu",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ahmtcn123/Device-Database/issues"
+  },
+  "homepage": "https://github.com/ahmtcn123/Device-Database#readme"
+}

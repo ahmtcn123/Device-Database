@@ -1,0 +1,142 @@
+{
+  "900021": {
+    "model": "A+",
+    "revision": "1.1",
+    "ram": 512,
+    "manufacturer": "Sony UK",
+	"brand" : "raspberry"
+  },
+  "900032": {
+    "model": "B+",
+    "revision": "1.2",
+    "ram": 512,
+    "manufacturer": "Sony UK",
+	"brand" : "raspberry"
+  },
+  "900092": {
+    "model": "Zero",
+    "revision": "1.2",
+    "ram": 512,
+    "manufacturer": "Sony UK",
+	"brand" : "raspberry"
+  },
+  "900093": {
+    "model": "Zero",
+    "revision": "1.3",
+    "ram": 512,
+    "manufacturer": "Sony UK",
+	"brand" : "raspberry"
+  },
+  "920092": {
+    "model": "Zero",
+    "revision": "1.2",
+    "ram": 512,
+    "manufacturer": "Embest",
+	"brand" : "raspberry"
+  },
+  "920093": {
+    "model": "Zero",
+    "revision": "1.3",
+    "ram": 512,
+    "manufacturer": "Embest",
+	"brand" : "raspberry"
+  },
+  "9000c1": {
+    "model": "Zero W",
+    "revision": "1.1",
+    "ram": 512,
+    "manufacturer": "Sony UK",
+	"brand" : "raspberry"
+  },
+  "9020e0": {
+    "model": "3A+",
+    "revision": "1.0",
+    "ram": 512,
+    "manufacturer": "Sony UK",
+	"brand" : "raspberry"
+  },
+  "a01040": {
+    "model": "2B",
+    "revision": "1.0",
+    "ram": 1024,
+    "manufacturer": "Sony UK",
+	"brand" : "raspberry"
+  },
+  "a01041": {
+    "model": "2B",
+    "revision": "1.1",
+    "ram": 1024,
+    "manufacturer": "Sony UK",
+	"brand" : "raspberry"
+  },
+  "a02082": {
+    "model": "3B",
+    "revision": "1.2",
+    "ram": 1024,
+    "manufacturer": "Sony UK",
+	"brand" : "raspberry"
+  },
+  "a020a0": {
+    "model": "CM3",
+    "revision": "1.0",
+    "ram": 1024,
+    "manufacturer": "Sony UK",
+	"brand" : "raspberry"
+  },
+  "a020d3": {
+    "model": "3B+",
+    "revision": "1.3",
+    "ram": 1024,
+    "manufacturer": "Sony UK",
+	"brand" : "raspberry"
+  },
+  "a021041": {
+    "model": "2B",
+    "revision": "1.1",
+    "ram": 1024,
+    "manufacturer": "Embest",
+	"brand" : "raspberry"
+  },
+  "a22042": {
+    "model": "2B",
+    "revision": "1.2",
+    "ram": 1024,
+    "manufacturer": "Embest",
+	"brand" : "raspberry"
+  },
+  "a22082": {
+    "model": "3B",
+    "revision": "1.2",
+    "ram": 1024,
+    "manufacturer": "Embest",
+	"brand" : "raspberry"
+  },
+  "a220a0": {
+    "model": "CM3",
+    "revision": "1.0",
+    "ram": 1024,
+    "manufacturer": "Embest",
+	"brand" : "raspberry"
+  },
+  "a32082": {
+    "model": "3B",
+    "revision": "1.2",
+    "ram": 1024,
+    "manufacturer": "Sony Japan",
+	"brand" : "raspberry"
+  },
+  "a52082": {
+    "model": "3B",
+    "revision": "1.2",
+    "ram": 1024,
+    "manufacturer": "Stadium",
+	"brand" : "raspberry"
+  },
+  "a02100": {
+    "model": "CM3+",
+    "revision": "1.0",
+    "ram": 1024,
+    "manufacturer": "Sony UK",
+	"brand" : "raspberry"
+  }
+}
