@@ -7,6 +7,24 @@ Collection of development boards
 $ npm i device-database
 ```
 
+#### Supported devices on database
+
+|Raspberry Pi | Orange Pi|
+|--------------------|---------|
+|Raspberry Pi 3      | Orange Pi PC      |
+|Raspberry Pi B+     | Orange Pi PC Plus |
+|Raspberry Pi 2B     | Orange Pi Plus    |
+|Raspberry Pi 3B     | Orange Pi Lite    |
+|Raspberry Pi 3B+    | Orange Pi Plus 2  |
+|Raspberry Pi A+     | Orange Pi Plus 2E |
+|Raspberry Pi 3A+    | Orange Pi One     |
+|Raspberry Pi Zero   | Orange Pi 2       |
+|Raspberry Pi Zero W | Orange Pi PC 2    |
+|Raspberry Pi CM3+   |                   |
+|Raspberry Pi CM3    |                   |
+
+---      
+
 ### Construct module
 
 ```js
@@ -75,6 +93,8 @@ console.log(data.getResult());
 */
 
 ```
+*Device results may different from others
+
 ---
 #### Device exist
 

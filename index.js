@@ -16,8 +16,8 @@
  */
 exports.data = function () {
 	var query = "";
-	try {
-		query = require("./lib/module").rev("/proc/cpuinfo");
+	try { // /proc/cpuinfo
+		query = require("./lib/module").rev("./et.txt");
 	} catch (err) {
 		var er = new Error("Cannot parse device data. Data is corrupted");
 		er.code = "brokenData";
@@ -27,7 +27,7 @@ exports.data = function () {
 	var devicePropeties = query.find(e => e.revision !== undefined);
 	var found = "";
 	try {
-		found = db[devicePropeties.revision];
+		found = db[devicePropeties.revision] == undefined ? db[devicePropeties.serial.slice(0,8)] :db[devicePropeties.revision];
 	} catch (err) {
 		var er = new Error("Cannot parse device data. Data is corrupted");
 		er.code = "brokenData";
@@ -54,7 +54,7 @@ exports.data = function () {
 	 * @returns {object} object - Database result
 	 */
 	this.getResult = function () {
-		return found !== undefined;
+		return found;
 	};
 
 	/**
