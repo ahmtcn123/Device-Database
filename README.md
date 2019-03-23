@@ -21,7 +21,7 @@ $ npm i device-database
 |Raspberry Pi Zero   | Orange Pi 2       |
 |Raspberry Pi Zero W | Orange Pi PC 2    |
 |Raspberry Pi CM3+   | Orange Pi Zero    |
-|Raspberry Pi CM3    | Oragne Pi Prime   |
+|Raspberry Pi CM3    | Orange Pi Prime   |
 
 ---      
 
