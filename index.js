@@ -16,8 +16,8 @@
  */
 exports.data = function () {
 	var query = "";
-	try { // /proc/cpuinfo
-		query = require("./lib/module").rev("./et.txt");
+	try {
+		query = require("./lib/module").rev("/proc/cpuinfo");
 	} catch (err) {
 		var er = new Error("Cannot parse device data. Data is corrupted");
 		er.code = "brokenData";

@@ -1,6 +1,6 @@
 {
   "name": "device-database",
-  "version": "1.2.5",
+  "version": "1.3.7",
   "description": "Collection of development boards",
   "main": "index.js",
   "directories": {

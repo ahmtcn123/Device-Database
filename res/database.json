@@ -44,112 +44,122 @@
   "14004620": {
     "manufacturer": "Allwinner Technology",
     "brand": "Orange Pi",
-    "model": "Orange Pi Lite"
+    "model": "Pi Lite"
   },
   "20000065": {
     "manufacturer": "Allwinner Technology",
     "brand": "Orange Pi",
-    "model": "Orange Pi One"
+    "model": "Pi One"
   },
   "24000000": {
     "manufacturer": "Allwinner Technology",
     "brand": "Orange Pi",
-    "model": "Orange Pi PC"
+    "model": "Pi PC"
   },
   "24004704": {
     "manufacturer": "Allwinner Technology",
     "brand": "Orange Pi",
-    "model": "Orange Pi PC 2"
+    "model": "Pi PC 2"
   },
   "24340408": {
     "manufacturer": "Allwinner Technology",
     "brand": "Orange Pi",
-    "model": "Orange Pi PC"
+    "model": "Pi PC"
+  },
+  "34004620": {
+    "manufacturer": "Allwinner Technology",
+    "brand": "Orange Pi",
+    "model": "Pi Zero"
   },
   "34004704": {
     "manufacturer": "Allwinner Technology",
     "brand": "Orange Pi",
-    "model": "Orange Pi PC 2"
+    "model": "Pi PC 2"
   },
   "34344314": {
     "manufacturer": "Allwinner Technology",
     "brand": "Orange Pi",
-    "model": "Orange Pi Plus 2"
+    "model": "Pi Plus 2"
   },
   "34900700": {
     "manufacturer": "Allwinner Technology",
     "brand": "Orange Pi",
-    "model": "Orange Pi 2"
+    "model": "Pi 2"
   },
   "44004704": {
     "manufacturer": "Allwinner Technology",
     "brand": "Orange Pi",
-    "model": "Orange Pi PC 2"
+    "model": "Pi PC 2"
   },
   "48000085": {
     "manufacturer": "Allwinner Technology",
     "brand": "Orange Pi",
-    "model": "Orange Pi Plus 2E"
+    "model": "Pi Plus 2E"
   },
   "50354520": {
     "manufacturer": "Allwinner Technology",
     "brand": "Orange Pi",
-    "model": "Orange Pi PC"
+    "model": "Pi PC"
   },
   "50354718": {
     "manufacturer": "Allwinner Technology",
     "brand": "Orange Pi",
-    "model": "Orange Pi Lite"
+    "model": "Pi Lite"
   },
   "50358720": {
     "manufacturer": "Allwinner Technology",
     "brand": "Orange Pi",
-    "model": "Orange Pi One"
+    "model": "Pi One"
   },
   "54000000": {
     "manufacturer": "Allwinner Technology",
     "brand": "Orange Pi",
-    "model": "Orange Pi PC"
+    "model": "Pi PC"
   },
   "54004620": {
     "manufacturer": "Allwinner Technology",
     "brand": "Orange Pi",
-    "model": "Orange Pi PC"
+    "model": "Pi PC"
   },
   "58000000": {
     "manufacturer": "Allwinner Technology",
     "brand": "Orange Pi",
-    "model": "Orange Pi One"
+    "model": "Pi One"
+  },
+  "58000032": {
+    "manufacturer": "Allwinner Technology",
+    "brand": "Orange Pi",
+    "model": "Pi Zero"
   },
   "60000000": {
     "manufacturer": "Allwinner Technology",
     "brand": "Orange Pi",
-    "model": "Orange Pi PC"
+    "model": "Pi PC"
   },
   "64000022": {
     "manufacturer": "Allwinner Technology",
     "brand": "Orange Pi",
-    "model": "Orange Pi Lite"
+    "model": "Pi Lite"
   },
   "74004620": {
     "manufacturer": "Allwinner Technology",
     "brand": "Orange Pi",
-    "model": "Orange Pi One"
+    "model": "Pi One"
   },
   "80000000": {
     "manufacturer": "Allwinner Technology",
     "brand": "Orange Pi",
-    "model": "Orange Pi PC"
+    "model": "Pi PC"
   },
   "82800001": {
     "manufacturer": "Allwinner Technology",
     "brand": "Orange Pi",
-    "model": "Orange Pi PC 2"
+    "model": "Pi PC 2"
   },
   "94340508": {
     "manufacturer": "Allwinner Technology",
     "brand": "Orange Pi",
-    "model": "Orange Pi Plus"
+    "model": "Pi Plus"
   },
   "9000c1": {
     "model": "Zero W",
@@ -252,196 +262,231 @@
   "02004620": {
     "manufacturer": "Allwinner Technology",
     "brand": "Orange Pi",
-    "model": "Orange Pi 2"
+    "model": "Pi 2"
   },
   "5040068e": {
     "manufacturer": "Allwinner Technology",
     "brand": "Orange Pi",
-    "model": "Orange Pi PC"
+    "model": "Pi PC"
   },
   "502b0a8e": {
     "manufacturer": "Allwinner Technology",
     "brand": "Orange Pi",
-    "model": "Orange Pi PC"
+    "model": "Pi PC"
   },
   "50330d0e": {
     "manufacturer": "Allwinner Technology",
     "brand": "Orange Pi",
-    "model": "Orange Pi PC"
+    "model": "Pi PC"
   },
   "503a04ce": {
     "manufacturer": "Allwinner Technology",
     "brand": "Orange Pi",
-    "model": "Orange Pi PC"
+    "model": "Pi PC"
   },
   "503b0c0e": {
     "manufacturer": "Allwinner Technology",
     "brand": "Orange Pi",
-    "model": "Orange Pi PC"
+    "model": "Pi PC"
   },
   "02c00081": {
     "manufacturer": "Allwinner Technology",
     "brand": "Orange Pi",
-    "model": "Orange Pi One"
+    "model": "Pi One"
   },
   "1033080e": {
     "manufacturer": "Allwinner Technology",
     "brand": "Orange Pi",
-    "model": "Orange Pi PC"
+    "model": "Pi PC"
   },
   "1c34020e": {
     "manufacturer": "Allwinner Technology",
     "brand": "Orange Pi",
-    "model": "Orange Pi PC"
+    "model": "Pi PC"
   },
   "4c1c058e": {
     "manufacturer": "Allwinner Technology",
     "brand": "Orange Pi",
-    "model": "Orange Pi PC"
+    "model": "Pi PC"
   },
   "1435811c": {
     "manufacturer": "Allwinner Technology",
     "brand": "Orange Pi",
-    "model": "Orange Pi Lite"
+    "model": "Pi Lite"
   },
   "50340a0e": {
     "manufacturer": "Allwinner Technology",
     "brand": "Orange Pi",
-    "model": "Orange Pi PC Plus"
+    "model": "Pi PC Plus"
   },
   "4c00006f": {
     "manufacturer": "Allwinner Technology",
     "brand": "Orange Pi",
-    "model": "Orange Pi PC Plus"
+    "model": "Pi PC Plus"
   },
   "5024010e": {
     "manufacturer": "Allwinner Technology",
     "brand": "Orange Pi",
-    "model": "Orange Pi PC Plus"
+    "model": "Pi PC Plus"
   },
   "5c000080": {
     "manufacturer": "Allwinner Technology",
     "brand": "Orange Pi",
-    "model": "Orange Pi PC Plus"
+    "model": "Pi PC Plus"
   },
   "501a050e": {
     "manufacturer": "Allwinner Technology",
     "brand": "Orange Pi",
-    "model": "Orange Pi Plus"
+    "model": "Pi Plus"
   },
   "4000006d": {
     "manufacturer": "Allwinner Technology",
     "brand": "Orange Pi",
-    "model": "Orange Pi Plus"
+    "model": "Pi Plus"
   },
   "5021034e": {
     "manufacturer": "Allwinner Technology",
     "brand": "Orange Pi",
-    "model": "Orange Pi Plus 2"
+    "model": "Pi Plus 2"
   },
   "5c000000": {
     "manufacturer": "Allwinner Technology",
     "brand": "Orange Pi",
-    "model": "Orange Pi Plus 2"
+    "model": "Pi Plus 2"
   },
   "501d078e": {
     "manufacturer": "Allwinner Technology",
     "brand": "Orange Pi",
-    "model": "Orange Pi Plus 2E"
+    "model": "Pi Plus 2E"
   },
   "4c000060": {
     "manufacturer": "Allwinner Technology",
     "brand": "Orange Pi",
-    "model": "Orange Pi Plus 2E"
+    "model": "Pi Plus 2E"
   },
   "503f050e": {
     "manufacturer": "Allwinner Technology",
     "brand": "Orange Pi",
-    "model": "Orange Pi Plus 2E"
+    "model": "Pi Plus 2E"
   },
   "5035811c": {
     "manufacturer": "Allwinner Technology",
     "brand": "Orange Pi",
-    "model": "Orange Pi Plus 2E"
+    "model": "Pi Plus 2E"
   },
   "4423098e": {
     "manufacturer": "Allwinner Technology",
     "brand": "Orange Pi",
-    "model": "Orange Pi Plus 2E"
+    "model": "Pi Plus 2E"
   },
   "5022018e": {
     "manufacturer": "Allwinner Technology",
     "brand": "Orange Pi",
-    "model": "Orange Pi Lite"
+    "model": "Pi Lite"
   },
   "5018050e": {
     "manufacturer": "Allwinner Technology",
     "brand": "Orange Pi",
-    "model": "Orange Pi Lite"
+    "model": "Pi Lite"
   },
   "3c000011": {
     "manufacturer": "Allwinner Technology",
     "brand": "Orange Pi",
-    "model": "Orange Pi Lite"
+    "model": "Pi Lite"
   },
   "3422048e": {
     "manufacturer": "Allwinner Technology",
     "brand": "Orange Pi",
-    "model": "Orange Pi Lite"
+    "model": "Pi Lite"
   },
   "9435430c": {
     "manufacturer": "Allwinner Technology",
     "brand": "Orange Pi",
-    "model": "Orange Pi One"
+    "model": "Pi One"
   },
   "502e034e": {
     "manufacturer": "Allwinner Technology",
     "brand": "Orange Pi",
-    "model": "Orange Pi One"
+    "model": "Pi One"
   },
   "4435c204": {
     "manufacturer": "Allwinner Technology",
     "brand": "Orange Pi",
-    "model": "Orange Pi One"
+    "model": "Pi One"
   },
   "502404ce": {
     "manufacturer": "Allwinner Technology",
     "brand": "Orange Pi",
-    "model": "Orange Pi One"
+    "model": "Pi One"
   },
   "3c27048e": {
     "manufacturer": "Allwinner Technology",
     "brand": "Orange Pi",
-    "model": "Orange Pi One"
+    "model": "Pi One"
   },
   "51360a0c": {
     "manufacturer": "Allwinner Technology",
     "brand": "Orange Pi",
-    "model": "Orange Pi 2"
+    "model": "Pi 2"
   },
   "0c000050": {
     "manufacturer": "Allwinner Technology",
     "brand": "Orange Pi",
-    "model": "Orange Pi 2"
+    "model": "Pi 2"
   },
   "5035c120": {
     "manufacturer": "Allwinner Technology",
     "brand": "Orange Pi",
-    "model": "Orange Pi PC 2"
+    "model": "Pi PC 2"
   },
   "303403cc": {
     "manufacturer": "Allwinner Technology",
     "brand": "Orange Pi",
-    "model": "Orange Pi PC 2"
+    "model": "Pi PC 2"
   },
   "2c2d07cc": {
     "manufacturer": "Allwinner Technology",
     "brand": "Orange Pi",
-    "model": "Orange Pi PC 2"
+    "model": "Pi PC 2"
   },
   "1c2d02cc": {
     "manufacturer": "Allwinner Technology",
     "brand": "Orange Pi",
-    "model": "Orange Pi PC 2"
+    "model": "Pi PC 2"
+  },
+  "3435c614": {
+    "manufacturer": "Allwinner Technology",
+    "brand": "Orange Pi",
+    "model": "Pi Zero"
+  },
+  "5030034e": {
+    "manufacturer": "Allwinner Technology",
+    "brand": "Orange Pi",
+    "model": "Pi Zero"
+  },
+  "02c00042": {
+    "manufacturer": "Allwinner Technology",
+    "brand": "Orange Pi",
+    "model": "Pi Zero"
+  },
+  "5035c614": {
+    "manufacturer": "Allwinner Technology",
+    "brand": "Orange Pi",
+    "model": "Pi Zero"
+  },
+  "0439098e": {
+    "manufacturer": "Allwinner Technology",
+    "brand": "Orange Pi",
+    "model": "Pi Zero"
+  },
+  "5035c200": {
+    "manufacturer": "Allwinner Technology",
+    "brand": "Orange Pi",
+    "model": "Pi Prime"
+  },
+  "382f020c": {
+    "manufacturer": "Allwinner Technology",
+    "brand": "Orange Pi",
+    "model": "Pi Prime"
   }
 }
