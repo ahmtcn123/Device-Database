@@ -1,7 +1,7 @@
 {
   "name": "device-database",
-  "version": "1.3.8",
-  "description": "Collection of development boards",
+  "version": "1.4.8",
+  "description": "Collection of development boards and parser module",
   "main": "index.js",
   "directories": {
     "lib": "./lib",

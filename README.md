@@ -51,6 +51,7 @@ console.log(data.getParsed());
     cpuVariant: '0x0',
     cpuPart: '0xd03',
     cpuRevision: '4' },
+    ...
   { hardware: 'BCM2835',
     revision: 'a02082',
     serial: 'serialid' } ]
@@ -106,6 +107,37 @@ console.log(data.found());
 
 /*
 true || false
+*/
+```
+---
+
+#### Get experimental parser data
+
+```js
+
+const data = new database.data()
+console.log(data.getParsed2());
+
+/*
+{ 
+  cpu1: {
+    modelName: 'ARMv7 Processor rev 4 (v7l)',
+    bogomips: '76.81',
+    features: 'half thumb',
+    cpuImplementer: '0x41',
+    cpuArchitecture: '7',
+    cpuVariant: '0x0',
+    cpuPart: '0xd03',
+    cpuRevision: '4' 
+  },
+  ...
+  device: {
+    cpuLength: 1,
+    hardware: 'BCM2835',
+    revision: 'a02082',
+    serial: 'serialid'
+  } 
+}
 */
 
 ```

@@ -17,8 +17,11 @@
 exports.data = function () {
 	var query = "";
 	try {
-		query = require("./lib/module").rev("/proc/cpuinfo");
+		var parserModule = require("./lib/module");
+		var {parserV1,parserV2} = new parserModule.rev("/proc/cpuinfo");
+		query = parserV1()
 	} catch (err) {
+		console.log(err)
 		var er = new Error("Cannot parse device data. Data is corrupted");
 		er.code = "brokenData";
 		throw er;
@@ -64,4 +67,19 @@ exports.data = function () {
 	this.found = function () {
 		return found !== undefined;
 	};
+
+	/**
+	 * Get parsed data with experimental parserV2
+	 * @returns {object} object - All parsed data
+	 */
+	this.getParsed2 = function () {
+		var data;
+		try {
+			data = parserV2()
+		} catch(err) {
+			var err = new Error("Parsing procfile failed. Use getParser instead of getParser2")
+		}
+		return data;
+	};
+
 };
