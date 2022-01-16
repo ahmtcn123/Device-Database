@@ -1,11 +1,5 @@
 # Device-Database
-Collection of development boards
-
-## Install
-
-```shell
-$ npm i device-database
-```
+A library that detects collection of development boards listed below.
 
 #### Available devices on database
 
@@ -23,6 +17,11 @@ $ npm i device-database
 |Raspberry Pi CM3+   | Orange Pi Zero    |
 |Raspberry Pi CM3    | Orange Pi Prime   |
 
+## Install
+
+```shell
+$ npm i device-database
+```
 ---      
 
 ### Construct module
